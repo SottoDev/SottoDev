@@ -1,5 +1,10 @@
+
+
 <h1 align="center"> Lucas Mota </h1>
     
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=CB00F7&width=435&lines=Seja+Bem+Vindo+ao+Meu+Perfil+%3A);Welcome+To+My+Frofile+%3A)" alt="Typing SVG" /></a>
+
+
 <div align="center">
   <b> Backend developer | Python | Automation Solutions | Cybersecurity Enthusiast </b>
   <br>
