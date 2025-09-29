@@ -39,7 +39,7 @@
 </div>
 
 <!-- Desc -->
-<p><strong>English 🇺🇸</strong><br>
+<br>
 Here, I’m just another technology enthusiast, passionate about solving problems through code.<br>
 I work on projects in Python and I’m currently expanding my knowledge in other tools and technologies, always seeking to grow as a developer.<br><br>
 I started programming because I often felt the need for tools I couldn’t find on the internet — so I decided to build them myself.<br>
@@ -54,17 +54,16 @@ Meu foco principal é a automação, criando soluções que otimizam processos, 
 
 <div align="center">
   
-  <!-- Linguagens -->
+
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
 
   <br>
 
-  <!-- Ferramentas -->
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/n8n-FF4500?style=for-the-badge&logo=n8n&logoColor=white">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
