@@ -25,14 +25,14 @@
 <!-- Socials -->
 <div align="center">
     <a target="_blank" style="text-decoration: none;">
-        <a href="https://www.linkedin.com/in/nftsz/">
+        <a href="https://www.linkedin.com/in/lucasmotaes">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
         </a>
         <a href="https://twitter.com/0xblkowl" target="_blank">
             <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"> 
         </a>
-        <a href ="mailto:naft.dev@proton.me">
-            <img src="https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank">
+        <a href ="lucasmotaesilva@outlook.com">
+            <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=mail-dot-ru&logoColor=white" target="_blank">
         </a>
     </a>
 </div>
